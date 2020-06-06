@@ -10,7 +10,7 @@ cryptography==2.9
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
-Django==2.2.12
+Django==2.2.13
 entrypoints==0.2.3
 fabric==2.5.0
 fake==0.8
