@@ -21,7 +21,7 @@ invoke==1.4.1
 ipykernel==4.10.0
 ipython==5.8.0
 ipython-genutils==0.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 json5==0.9.4
 jsonschema==3.2.0
